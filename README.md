@@ -5,5 +5,5 @@ Let's get mathematical!
 This application understands mathematical statements as well-formed-formulas, with parsing conventions.
 Variables are expressed as "%VARIABLE."   (note the endtag period, '.') .
 For now, the only constants are 'True' and 'False', expressed as "$T" and "$F" .
-Logical connectives are expressed as "@<operator_symbol>", where operator symbols are '~', 'v', 'n', 'i', and 'b' .
+Logical connectives are expressed as "@OPERATOR", where operator symbols are '~', 'v', 'n', 'i', and 'b' .
 The quantifiers 'for each' and 'there exists' are expressed as "#A" or "#E" .
